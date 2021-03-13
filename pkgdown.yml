@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  exampletable: exampletable.html
+  walkthrough: walkthrough.html
+last_built: 2021-07-10T21:54Z
+urls:
+  reference: https://docs.ropensci.org/chlorpromazineR/reference
+  article: https://docs.ropensci.org/chlorpromazineR/articles
+
