@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "6fa5e312f8994e8e14ae202f3f3da260c0d9d8a8",
+    "author": "eebrown <eb@ericebrown.com>",
+    "time": "2021-03-13 22:16:48",
+    "files": 31,
+    "merge": false,
+    "message": "increment to v0.2.0 with new key Leucht 2020\n"
+  },
+  "repo": "https://github.com/ropensci/chlorpromazineR",
+  "pkg": "chlorpromazineR"
+}
